@@ -1,0 +1,36 @@
+body {background-color: rgb(189, 196, 187);}
+
+h3{ background: gray; color: white}
+
+#b1 {width: 300px;
+    height: 150px;
+    position: relative;}
+
+#b2{position: absolute; 
+    top: 10px; 
+    left: 300px; 
+    width: 400px;
+    height: 30px;}
+
+.habit{ color: black;
+        text-decoration: none;
+        padding: 5px 10px;}
+
+.habit:hover{background:lightblue;
+             color:white;
+             font-weight: bold;}
+
+#g1{display: flex;}
+
+#g2{margin-left: 300px;}
+
+
+
+#t1 { border: 4px lavender dashed;}
+    
+#t1 th, #t1 td {border: 1px solid lavender;}
+
+#t1 th:hover, #t1 td:hover {
+        background-color: lightblue;
+        color: white;}
+    
